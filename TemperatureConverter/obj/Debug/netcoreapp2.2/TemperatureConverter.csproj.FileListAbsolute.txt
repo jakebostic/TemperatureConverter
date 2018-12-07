@@ -1,0 +1,11 @@
+C:\repos\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp2.2\TemperatureConverter.deps.json
+C:\repos\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp2.2\TemperatureConverter.runtimeconfig.json
+C:\repos\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp2.2\TemperatureConverter.runtimeconfig.dev.json
+C:\repos\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp2.2\TemperatureConverter.dll
+C:\repos\TemperatureConverter\TemperatureConverter\bin\Debug\netcoreapp2.2\TemperatureConverter.pdb
+C:\repos\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp2.2\TemperatureConverter.csprojAssemblyReference.cache
+C:\repos\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp2.2\TemperatureConverter.csproj.CoreCompileInputs.cache
+C:\repos\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp2.2\TemperatureConverter.AssemblyInfoInputs.cache
+C:\repos\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp2.2\TemperatureConverter.AssemblyInfo.cs
+C:\repos\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp2.2\TemperatureConverter.dll
+C:\repos\TemperatureConverter\TemperatureConverter\obj\Debug\netcoreapp2.2\TemperatureConverter.pdb
