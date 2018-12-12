@@ -9,16 +9,20 @@ namespace TemperatureConverter
             Console.WriteLine("Welcome to the Temperature Converter");
             Console.WriteLine();
 
-            Console.Write("Enter degrees in Farenheit: ");
-            if (double.TryParse(Console.ReadLine(), out double f))
+            string choice = "y";
+            while (choice.Equals("y"))
             {
-                double c = (f - 32) * 5 / 9;
-                Console.Write($"\nDegrees in Celsius: {c}");
-                Console.WriteLine();
+                Console.Write("Enter degrees in Farenheit: ");
+                if (double.TryParse(Console.ReadLine(), out double f))
+                {
+                    double c = (f - 32) * 5 / 9;
+                    Console.Write($"\nDegrees in Celsius: {c}");
+                    Console.WriteLine();
+                }
+
+                Console.Write("Continue? (y/n)");
+                choice = Console.ReadLine();
             }
-            
-            Console.Write("Press any key to exit...");
-            Console.ReadKey(true);
 
         }
     }
